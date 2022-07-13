@@ -1,2 +1,2 @@
 # Python
-Compilation of Python programming codes
+Compilation of my Python programming codes
